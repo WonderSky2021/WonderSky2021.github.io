@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wondersky2021.github.io</id>
     <title>Gridea</title>
-    <updated>2021-04-25T10:27:12.750Z</updated>
+    <updated>2021-04-25T10:28:31.030Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wondersky2021.github.io"/>
     <link rel="self" href="https://wondersky2021.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://wondersky2021.github.io/images/avatar.png</logo>
     <icon>https://wondersky2021.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[haode]]></title>
+        <id>https://wondersky2021.github.io/post/haode/</id>
+        <link href="https://wondersky2021.github.io/post/haode/">
+        </link>
+        <updated>2021-04-25T10:28:11.000Z</updated>
+        <content type="html"><![CDATA[<p>lucky</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://wondersky2021.github.io/post/hello-gridea/</id>
